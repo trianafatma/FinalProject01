@@ -3,7 +3,7 @@ public class Test1 {
         System.out.println("Hello world 1");
         System.out.println("Ditambahkan oleh user 2");
         System.out.println("Ditambahkan oleh user 1");
-        System.out.println("Tes");
+        System.out.println("Tes 1");
     }
     
 }
