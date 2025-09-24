@@ -5,6 +5,9 @@ public class Test1 {
         System.out.println("Ditambahkan oleh user 1");
         System.out.println("Tes 4");
         System.out.println("Tes lagi");
+
+        System.out.println("Tes 5");
+        System.out.println("Tes lagi lagi");
     }
     
 }
